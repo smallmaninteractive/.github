@@ -1,0 +1,2 @@
+# Hey there!
+**Welcome to our official GitHub organization!** We're Smallman Interactive, and we're on a mission to bring the world together to play. We believe that games are meaningful forms of art and storytelling with the power to connect people in ways nobody could've ever imagined before. At Smallman Interactive, we build experiences and platforms to tell epic stories, empower talented creators, and unite players.
